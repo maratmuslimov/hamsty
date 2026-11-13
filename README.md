@@ -1,11 +1,11 @@
 # Hamsty
 
-Быстрый, красивый и приватный менеджер буфера обмена для macOS. Живёт в строке меню и прячет скопированное «за чёлку».
+A fast, beautiful and private clipboard manager for macOS. It lives in your menu bar and tucks everything you copy away behind the notch.
 
-**Скачать:** [последний релиз](https://github.com/maratmuslimov/hamsty/releases/latest) → `Hamsty.dmg`, перетащите Hamsty в «Программы».
+**Download:** [latest release](https://github.com/maratmuslimov/hamsty/releases/latest) → `Hamsty.dmg`, then drag Hamsty to Applications.
 
-- macOS 14 Sonoma и новее, Apple Silicon и Intel
-- История шифруется AES-256-GCM, ключ хранится только в вашей Связке ключей
-- Никакой телеметрии; обновления подписаны Ed25519 и проверяются перед установкой
+- macOS 14 Sonoma or later, Apple Silicon and Intel
+- History is encrypted with AES-256-GCM; the key stays in your own Keychain
+- No telemetry; updates are signed with Ed25519 and verified before install
 
-Этот репозиторий используется для публикации релизов и автообновлений.
+This repository hosts Hamsty releases and auto-updates.
